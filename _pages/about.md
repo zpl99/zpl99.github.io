@@ -14,6 +14,7 @@ You can access my curriculum vitae here.
 Publication
 ======
 **Torchspatial: A location encoding framework and benchmark for spatial representation learning
+
 *Nemin Wu, Qian Cao, Zhangyu Wang, **Zeping Liu, Yanlin Qi, Jielu Zhang, Joshua Ni, Xiaobai Yao, Hongxu Ma, Lan Mu, Stefano Ermon, Tanuja Ganu, Akshay Nambi, Ni Lao, Gengchen Mai
 
 Getting started
