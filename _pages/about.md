@@ -39,6 +39,21 @@ _Lin Feng, Penglei Xu, Hong Tang, **Zeping Liu**, Peng Hou_
 GIScience & Remote Sensing, 2023  
 [paper](https://www.tandfonline.com/doi/pdf/10.1080/15481603.2023.2196154)
 
+<span style="color: #13baf0; font-size: 20px;"><b>Learning sparse geometric features for building segmentation from low-resolution remote-sensing images</b></span>  
+_**Zeping Liu**, Hong Tang_  
+Remote Sensing, 2023  
+[paper](https://www.mdpi.com/2072-4292/15/7/1741)
+
+<span style="color: #13baf0; font-size: 20px;"><b>Building outline delineation from VHR remote sensing images using the convolutional recurrent neural network embedded with line segment information</b></span>  
+_**Zeping Liu**, Hong Tang, Wei Huang_  
+IEEE Transactions on Geoscience and Remote Sensing, 2022 
+[paper](https://drive.google.com/file/d/1cV8hM7Ad_OOYLTwzjnpCml9QWrWJZeVn/view)
+
+<span style="color: #13baf0; font-size: 20px;"><b>Sequentially delineation of rooftops with holes from VHR aerial images using a convolutional recurrent neural network</b></span>  
+_Wei Huang, **Zeping Liu**, Hong Tang, Jiayi Ge_  
+Remote Sensing, 2021  
+[paper](https://drive.google.com/file/d/1cV8hM7Ad_OOYLTwzjnpCml9QWrWJZeVn/view)
+
 
 
 
