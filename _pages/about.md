@@ -46,13 +46,18 @@ Remote Sensing, 2023
 
 <span style="color: #13baf0; font-size: 20px;"><b>Building outline delineation from VHR remote sensing images using the convolutional recurrent neural network embedded with line segment information</b></span>  
 _**Zeping Liu**, Hong Tang, Wei Huang_  
-IEEE Transactions on Geoscience and Remote Sensing, 2022 
+IEEE Transactions on Geoscience and Remote Sensing, 2022  
 [paper](https://drive.google.com/file/d/1cV8hM7Ad_OOYLTwzjnpCml9QWrWJZeVn/view)
 
 <span style="color: #13baf0; font-size: 20px;"><b>Sequentially delineation of rooftops with holes from VHR aerial images using a convolutional recurrent neural network</b></span>  
 _Wei Huang, **Zeping Liu**, Hong Tang, Jiayi Ge_  
 Remote Sensing, 2021  
 [paper](https://drive.google.com/file/d/1cV8hM7Ad_OOYLTwzjnpCml9QWrWJZeVn/view)
+
+<span style="color: #13baf0; font-size: 20px;"><b>AFM-RNN: A sequent prediction model for delineating building rooftops from remote sensing images by integrating RNN with attraction field map</b></span>  
+_**Zeping Liu**, Hong Tang, Wei Huang_  
+Pattern Recognition and Computer Vision: 4th Chinese Conference, 2021  
+[paper](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_39)
 
 
 
