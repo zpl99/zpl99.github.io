@@ -13,12 +13,12 @@ You can access my curriculum vitae here.
 
 Publication
 ======
-<span style="color: #ADD8E6; font-size: 20px;"><b>Torchspatial: A location encoding framework and benchmark for spatial representation learning</b></span>  
+<span style="color: #13baf0; font-size: 20px;"><b>Torchspatial: A location encoding framework and benchmark for spatial representation learning</b></span>  
 _Nemin Wu, Qian Cao, Zhangyu Wang, **Zeping Liu**, Yanlin Qi, Jielu Zhang, Joshua Ni, Xiaobai Yao, Hongxu Ma, Lan Mu, Stefano Ermon, Tanuja Ganu, Akshay Nambi, Ni Lao, Gengchen Mai_  
 arXiv preprint arXiv:2406.15658, 2024  
 [paper](https://arxiv.org/abs/2406.15658)
 
-<span style="color: #ADD8E6; font-size: 20px;"><b>Four seasonal composite Sentinel-2 images for the large-scale estimation of the number of stories in each individual building</b></span>  
+<span style="color: #13baf0; font-size: 20px;"><b>Four seasonal composite Sentinel-2 images for the large-scale estimation of the number of stories in each individual building</b></span>  
 _Siqing Lyu, Chao Ji, **Zeping Liu**, Hong Tang, Liqiang Zhang, Xin Yang_  
 Remote Sensing of Environment, 2024  
 [paper]([https://arxiv.org/abs/2406.15658](https://www.sciencedirect.com/science/article/pii/S0034425724000282))
