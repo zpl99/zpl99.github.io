@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the Department of Geography and the Environment at the University of Texas at Austin, under the supervision of Dr. Gengchen Mai. I earned MY M.S. from Beijing Normal University and my B.S. from East China Normal University. My research focuses on Geospatial AI and Intelligent Earth Observation, particularly focusing on geo-foundation model, spatial representation learning and efficient, large-scale high-spatial resolution remote sensing mapping.
+I am a first-year Ph.D. student in the Department of Geography and the Environment at the University of Texas at Austin, advised by Dr. Gengchen Mai. My research focuses on Geospatial AI and Intelligent Earth Observation, with particular emphasis on geo-foundation models, spatial representation learning, and efficient large-scale, high-resolution remote sensing mapping.
+
+You can access my curriculum vitae here.
 
 A data-driven personal website
 ======
