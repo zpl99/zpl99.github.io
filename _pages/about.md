@@ -18,6 +18,12 @@ _Nemin Wu, Qian Cao, Zhangyu Wang, **Zeping Liu**, Yanlin Qi, Jielu Zhang, Joshu
 arXiv preprint arXiv:2406.15658, 2024  
 [paper](https://arxiv.org/abs/2406.15658)
 
+<span style="color: #ADD8E6; font-size: 20px;"><b>Four seasonal composite Sentinel-2 images for the large-scale estimation of the number of stories in each individual building</b></span>  
+_Siqing Lyu, Chao Ji, **Zeping Liu**, Hong Tang, Liqiang Zhang, Xin Yang_  
+Remote Sensing of Environment, 2024  
+[paper]([https://arxiv.org/abs/2406.15658](https://www.sciencedirect.com/science/article/pii/S0034425724000282))
+
+
 
 
 Getting started
