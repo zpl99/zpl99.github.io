@@ -21,7 +21,13 @@ arXiv preprint arXiv:2406.15658, 2024
 <span style="color: #13baf0; font-size: 20px;"><b>Four seasonal composite Sentinel-2 images for the large-scale estimation of the number of stories in each individual building</b></span>  
 _Siqing Lyu, Chao Ji, **Zeping Liu**, Hong Tang, Liqiang Zhang, Xin Yang_  
 Remote Sensing of Environment, 2024  
-[paper]([https://arxiv.org/abs/2406.15658](https://www.sciencedirect.com/science/article/pii/S0034425724000282))
+[paper](https://www.sciencedirect.com/science/article/pii/S0034425724000282)
+
+<span style="color: #13baf0; font-size: 20px;"><b>CALIPSO-based aerosol extinction profile estimation from MODIS and MERRA-2 data using a hybrid model of Transformer and CNN
+</b></span>  
+_Yang Zhen, Xin Yang, Hong Tang, Haoze Shi, **Zeping Liu**_  
+Science of The Total Environment, 2024  
+[paper](https://www.sciencedirect.com/science/article/pii/S0048969724065793)
 
 
 
