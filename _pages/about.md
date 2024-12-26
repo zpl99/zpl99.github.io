@@ -62,7 +62,7 @@ Pattern Recognition and Computer Vision: 4th Chinese Conference, 2021
 Award
 ------
 2024: Second Place in UT GIS Day student presentation competition  
-2024: Outstanding Graduate Student of Beijing
+2024: Outstanding Graduate Student of Beijing  
 2024: Zhou Tingru Geography Youth Award  
 2023: First Prize in Graduate Academic Forum of National Remote Sensing Bulletin (Chinese)  
 2023: National Scholarship, Ministry of Education, China  
