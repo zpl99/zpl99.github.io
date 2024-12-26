@@ -11,7 +11,7 @@ I am a first-year Ph.D. student in the Department of Geography and the Environme
 
 You can access my curriculum vitae here.
 
-Publication
+Publications
 ======
 <span style="color: #13baf0; font-size: 20px;"><b>Torchspatial: A location encoding framework and benchmark for spatial representation learning</b></span>  
 _Nemin Wu, Qian Cao, Zhangyu Wang, **Zeping Liu**, Yanlin Qi, Jielu Zhang, Joshua Ni, Xiaobai Yao, Hongxu Ma, Lan Mu, Stefano Ermon, Tanuja Ganu, Akshay Nambi, Ni Lao, Gengchen Mai_  
@@ -59,7 +59,7 @@ _**Zeping Liu**, Hong Tang, Wei Huang_
 Pattern Recognition and Computer Vision: 4th Chinese Conference, 2021  
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_39)
 
-Award
+Awards
 ------
 2024: Second Place in UT GIS Day student presentation competition  
 2024: Outstanding Graduate Student of Beijing  
