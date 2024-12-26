@@ -29,6 +29,18 @@ _Yang Zhen, Xin Yang, Hong Tang, Haoze Shi, **Zeping Liu**_
 Science of The Total Environment, 2024  
 [paper](https://www.sciencedirect.com/science/article/pii/S0048969724065793)
 
+<span style="color: #13baf0; font-size: 20px;"><b>China Building Rooftop Area: the first multi-annual (2016–2021) and high-resolution (2.5 m) building rooftop area dataset in China derived with super-resolution segmentation from Sentinel-2 imagery</b></span>  
+_**Zeping Liu**, Hong Tang, Lin Feng, Siqing Lyu_  
+Earth System Science Data, 2023  
+[paper](https://essd.copernicus.org/articles/15/3547/2023/essd-15-3547-2023.html)
+
+<span style="color: #13baf0; font-size: 20px;"><b>National-scale mapping of building footprints using feature super-resolution semantic segmentation of Sentinel-2 images</b></span>  
+_Lin Feng, Penglei Xu, Hong Tang, **Zeping Liu**, Peng Hou_  
+GIScience & Remote Sensing, 2023  
+[paper](https://www.tandfonline.com/doi/pdf/10.1080/15481603.2023.2196154)
+
+
+
 
 
 
