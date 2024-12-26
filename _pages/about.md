@@ -17,6 +17,12 @@ Publication
 
 *Nemin Wu, Qian Cao, Zhangyu Wang, **Zeping Liu, Yanlin Qi, Jielu Zhang, Joshua Ni, Xiaobai Yao, Hongxu Ma, Lan Mu, Stefano Ermon, Tanuja Ganu, Akshay Nambi, Ni Lao, Gengchen Mai
 
+arXiv preprint arXiv:2406.15658, 2024
+
+[paper](https://arxiv.org/abs/2406.15658)
+
+
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
