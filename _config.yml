@@ -28,7 +28,7 @@ author:
   location         : "Austin, Texas"
   employer         : "The University of Texas at Austin"
   uri              : # URL
-  email            : "zeping.liu AT utexas.edu" 
+  email            : "zeping.liu@utexas.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=eSeCaz4AAAAJ"
@@ -40,7 +40,7 @@ author:
   
   # Social media
   linkedin         : "zeping-liu-55b336322"
-  twitter          : # Username for X / Twitter
+  # twitter          : # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
