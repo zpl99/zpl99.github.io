@@ -12,7 +12,7 @@ title                    : "Zeping Liu/ Personal website"
 title_separator          : "-"
 name                     : "Zeping Liu"
 description              : "personal description"
-url                      : https://zpl99.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://zpl99.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zpl99/zpl99.github.io"
 
