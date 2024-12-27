@@ -61,51 +61,73 @@ Pattern Recognition and Computer Vision: 4th Chinese Conference, 2021
 
 Awards
 ------
-<table>
-  <thead>
+<table style="border-collapse: collapse; width: 100%; text-align: left; border: 1px solid #ddd;">
+  <thead style="background-color: #f4f4f4;">
     <tr>
-      <th>Year</th>
-      <th>Award</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Year</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Award</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2024</td>
-      <td>Second Place in UT GIS Day student presentation competition</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2024</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second Place in UT GIS Day student presentation competition</td>
     </tr>
     <tr>
-      <td>2024</td>
-      <td>Outstanding Graduate Student of Beijing</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2024</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Outstanding Graduate Student of Beijing</td>
     </tr>
     <tr>
-      <td>2024</td>
-      <td>Zhou Tingru Geography Youth Award</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2024</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Zhou Tingru Geography Youth Award</td>
     </tr>
     <tr>
-      <td>2023</td>
-      <td>First Prize in Graduate Academic Forum of National Remote Sensing Bulletin (Chinese)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2023</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">First Prize in Graduate Academic Forum of National Remote Sensing Bulletin (Chinese)</td>
     </tr>
     <tr>
-      <td>2023</td>
-      <td>National Scholarship, Ministry of Education, China</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2023</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">National Scholarship, Ministry of Education, China</td>
     </tr>
     <tr>
-      <td>2022</td>
-      <td>National Scholarship, Ministry of Education, China</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2022</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">National Scholarship, Ministry of Education, China</td>
     </tr>
   </tbody>
 </table>
 
+
 Servies
 ------
-| **Reviewer for**                                      |
-|-------------------------------------------------------|
-| Scientific Reports                                    |
-| Earth Science Informatics                             |
-| International Journal of Applied Earth Observation and Geoinformation |
-| Signal, Image and Video Processing                    |
-| Geocarto International                                |
-| Frontiers in Remote Sensing                           |
+<table style="border-collapse: collapse; width: 100%; text-align: left; border: 1px solid #ddd;">
+  <thead style="background-color: #f4f4f4;">
+    <tr>
+      <th style="padding: 8px; border: 1px solid #ddd;">Reviewer for</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Scientific Reports</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Earth Science Informatics</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">International Journal of Applied Earth Observation and Geoinformation</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Signal, Image and Video Processing</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Geocarto International</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">Frontiers in Remote Sensing</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 
