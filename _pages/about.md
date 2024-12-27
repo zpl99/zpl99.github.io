@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Department of Geography and the Environment at the University of Texas at Austin, advised by Dr. Gengchen Mai. My research focuses on Geospatial AI and Intelligent Earth Observation, with particular emphasis on geo-foundation models, spatial representation learning, and efficient large-scale, high-resolution remote sensing mapping.
+I am a first-year Ph.D. student in the Department of Geography and the Environment at the University of Texas at Austin, advised by [Dr. Gengchen Mai](https://gengchenmai.github.io/). My research focuses on Geospatial AI and Intelligent Earth Observation, with particular emphasis on geo-foundation models, spatial representation learning, and efficient large-scale, high-resolution remote sensing mapping.
 
-You can access my curriculum vitae here.
+You can access my curriculum vitae [here][https://drive.google.com/file/d/11IPYw1-Eln8a4bw1LGVNaGj98wUDUIeD/view?usp=sharing].
 
 Publications
 ======
