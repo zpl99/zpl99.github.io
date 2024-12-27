@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=eSeCaz4AAAAJ"
-  orcid            : "0000-0003-2898-0023"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2898-0023"
   researchgate     : "https://www.researchgate.net/profile/Zeping-Liu-4"
 
   # Repositories and software development
-  github           : "https://github.com/zpl99"
+  github           : "zpl99"
   
   # Social media
   linkedin         : "zeping-liu-55b336322"
