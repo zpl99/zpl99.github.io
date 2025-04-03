@@ -9,13 +9,23 @@ redirect_from:
 
 I am a first-year Ph.D. student in the Department of Geography and the Environment at the University of Texas at Austin, advised by [Dr. Gengchen Mai](https://gengchenmai.github.io/). My research focuses on Geospatial AI and Intelligent Earth Observation, with particular emphasis on geo-foundation models, spatial representation learning, and efficient large-scale, high-resolution remote sensing mapping.
 
-You can access my curriculum vitae [here](https://drive.google.com/file/d/11IPYw1-Eln8a4bw1LGVNaGj98wUDUIeD/view?usp=sharing).
+You can access my curriculum vitae [here](https://drive.google.com/file/d/1eQzVQG8wziwlJqVxce35biLFio1SaKTJ/view?usp=sharing).
 
 Publications
 ======
+<span style="color: #13baf0; font-size: 20px;"><b>GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations</b></span>  
+**Zeping Liu**, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai  
+arXiv preprint arXiv:2503.16683  
+[paper](https://arxiv.org/abs/2503.16683)
+
+<span style="color: #13baf0; font-size: 20px;"><b>Towards the next generation of Geospatial Artificial Intelligence</b></span>  
+Gengchen Mai, Yiqun Xie, Xiaowei Jia, Ni Lao, Jinmeng Rao, Qing Zhu, **Zeping Liu**, Yao-Yi Chiang, Junfeng Jiao  
+International Journal of Applied Earth Observation and Geoinformation, 2025  
+[paper](https://www.sciencedirect.com/science/article/pii/S1569843225000159)
+
 <span style="color: #13baf0; font-size: 20px;"><b>Torchspatial: A location encoding framework and benchmark for spatial representation learning</b></span>  
 _Nemin Wu, Qian Cao, Zhangyu Wang, **Zeping Liu**, Yanlin Qi, Jielu Zhang, Joshua Ni, Xiaobai Yao, Hongxu Ma, Lan Mu, Stefano Ermon, Tanuja Ganu, Akshay Nambi, Ni Lao, Gengchen Mai_  
-arXiv preprint arXiv:2406.15658, 2024  
+Neurips 2024 Dataset Benchmark  
 [paper](https://arxiv.org/abs/2406.15658)
 
 <span style="color: #13baf0; font-size: 20px;"><b>Four seasonal composite Sentinel-2 images for the large-scale estimation of the number of stories in each individual building</b></span>  
