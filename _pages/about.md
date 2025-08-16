@@ -11,7 +11,7 @@ I am a first-year Ph.D. student in the Department of Geography and the Environme
 
 You can access my curriculum vitae [here](https://drive.google.com/file/d/1eQzVQG8wziwlJqVxce35biLFio1SaKTJ/view?usp=sharing).
 
-Publications
+Selected Publications
 ======
 <span style="color: #13baf0; font-size: 20px;"><b>GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations</b></span>  
 **Zeping Liu**, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai  
@@ -79,6 +79,10 @@ Awards
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">2025</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Amazon Ai Phd Fellowship</td>
+    </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">2024</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second Place in UT GIS Day student presentation competition</td>
