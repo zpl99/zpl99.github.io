@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Department of Geography and the Environment at the University of Texas at Austin, advised by [Dr. Gengchen Mai](https://gengchenmai.github.io/). My research focuses on Geospatial AI and Intelligent Earth Observation, with particular emphasis on geo-foundation models, spatial representation learning, and efficient large-scale, high-resolution remote sensing mapping.
+I am a second-year Ph.D. student in the Department of Geography and the Environment at the University of Texas at Austin, advised by [Dr. Gengchen Mai](https://gengchenmai.github.io/). My research focuses on Geospatial AI and Intelligent Earth Observation, with particular emphasis on geo-foundation models, spatial representation learning, and efficient large-scale, high-resolution remote sensing mapping.
 
 You can access my curriculum vitae [here](https://drive.google.com/file/d/1eQzVQG8wziwlJqVxce35biLFio1SaKTJ/view?usp=sharing).
 
@@ -69,77 +69,109 @@ _**Zeping Liu**, Hong Tang, Wei Huang_
 Pattern Recognition and Computer Vision: 4th Chinese Conference, 2021  
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_39)
 
+Industry Experience
+======
+
+<div style="border-left: 3px solid #13baf0; padding-left: 15px; margin-top: 20px;">
+
+  <div style="margin-bottom: 20px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>Intern — Esri Inc.</b></span> <br>
+    <span style="color: gray;">19 Aug 2025 – 7 Nov 2025 (Part time) </span> <br>
+    <p style="margin-top: 5px;">
+        Working on Spatial Co-Scientist project.
+    </p>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>Intern — Esri Inc.</b></span> <br>
+    <span style="color: gray;">20 May 2025 – 8 Aug 2025 (Full time) </span> <br>
+    <p style="margin-top: 5px;">
+      Developed the Spatial Co-Scientist agent system using Esri’s Generative AI Toolkit, integrating Retrieval-Augmented Generation (RAG), LLM reasoning, and ArcGIS Pro workflows to support spatial analysis. 
+Collected expert interview insights as training data and designed guided analysis flows for clustering and exploratory tasks to enhance LLM-driven spatial analysis. Mentored by [Mansour Raad] (https://www.esri.com/about/newsroom/author/mraad), [Lauren Bennett] (https://www.esri.com/about/newsroom/author/lauren-bennett) and [Ankita Bakshi] (https://www.esri.com/arcgis-blog/author/abakshi)
+    </p>
+  </div>
+
+</div>
+
 Awards
-------
-<table style="border-collapse: collapse; width: 100%; text-align: left; border: 1px solid #ddd;">
-  <thead style="background-color: #f4f4f4;">
-    <tr>
-      <th style="padding: 8px; border: 1px solid #ddd;">Year</th>
-      <th style="padding: 8px; border: 1px solid #ddd;">Award</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">2025</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Amazon Ai Phd Fellowship</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">2024</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Second Place in UT GIS Day student presentation competition</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">2024</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Outstanding Graduate Student of Beijing</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">2024</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Zhou Tingru Geography Youth Award</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">2023</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">First Prize in Graduate Academic Forum of National Remote Sensing Bulletin (Chinese)</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">2023</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">National Scholarship, Ministry of Education, China</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">2022</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">National Scholarship, Ministry of Education, China</td>
-    </tr>
-  </tbody>
-</table>
+======
+
+<div style="border-left: 3px solid #13baf0; padding-left: 15px; margin-top: 20px;">
+
+  <div style="margin-bottom: 15px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>Amazon AI PhD Fellowship</b></span><br>
+    <span style="color: gray;">2025</span>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>Second Place — UT GIS Day Student Presentation Competition</b></span><br>
+    <span style="color: gray;">2024</span>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>Outstanding Graduate Student of Beijing</b></span><br>
+    <span style="color: gray;">2024</span>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>Zhou Tingru Geography Youth Award</b></span><br>
+    <span style="color: gray;">2024</span>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>First Prize — Graduate Academic Forum of National Remote Sensing Bulletin</b></span><br>
+    <span style="color: gray;">2023</span>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>National Scholarship, Ministry of Education (China)</b></span><br>
+    <span style="color: gray;">2023</span>
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <span style="font-size: 18px; color: #13baf0;"><b>National Scholarship, Ministry of Education (China)</b></span><br>
+    <span style="color: gray;">2022</span>
+  </div>
+
+</div>
 
 
-Servies
-------
-<table style="border-collapse: collapse; width: 100%; text-align: left; border: 1px solid #ddd;">
-  <thead style="background-color: #f4f4f4;">
-    <tr>
-      <th style="padding: 8px; border: 1px solid #ddd;">Reviewer for</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">Scientific Reports</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">Earth Science Informatics</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">International Journal of Applied Earth Observation and Geoinformation</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">Signal, Image and Video Processing</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">Geocarto International</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">Frontiers in Remote Sensing</td>
-    </tr>
-  </tbody>
-</table>
+
+Reviewer
+======
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 15px;">
+
+  <div style="flex: 1 1 45%; border: 1px solid #ddd; border-radius: 8px; padding: 12px; box-shadow: 2px 2px 6px #f0f0f0;">
+    <b>Scientific Reports</b>
+  </div>
+
+  <div style="flex: 1 1 45%; border: 1px solid #ddd; border-radius: 8px; padding: 12px; box-shadow: 2px 2px 6px #f0f0f0;">
+    <b>Earth Science Informatics</b>
+  </div>
+
+  <div style="flex: 1 1 45%; border: 1px solid #ddd; border-radius: 8px; padding: 12px; box-shadow: 2px 2px 6px #f0f0f0;">
+    <b>International Journal of Applied Earth Observation and Geoinformation</b>
+  </div>
+
+  <div style="flex: 1 1 45%; border: 1px solid #ddd; border-radius: 8px; padding: 12px; box-shadow: 2px 2px 6px #f0f0f0;">
+    <b>Signal, Image and Video Processing</b>
+  </div>
+
+  <div style="flex: 1 1 45%; border: 1px solid #ddd; border-radius: 8px; padding: 12px; box-shadow: 2px 2px 6px #f0f0f0;">
+    <b>Geocarto International</b>
+  </div>
+
+  <div style="flex: 1 1 45%; border: 1px solid #ddd; border-radius: 8px; padding: 12px; box-shadow: 2px 2px 6px #f0f0f0;">
+    <b>Frontiers in Remote Sensing</b>
+  </div>
+
+  <div style="flex: 1 1 45%; border: 1px solid #ddd; border-radius: 8px; padding: 12px; box-shadow: 2px 2px 6px #f0f0f0;">
+    <b>Geo-spatial Information Science</b>
+  </div>
+
+</div>
+
 
 <a href="https://info.flagcounter.com/JzHz"><img src="https://s01.flagcounter.com/map/JzHz/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
