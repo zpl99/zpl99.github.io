@@ -88,6 +88,7 @@ Industry Experience
     <p style="margin-top: 5px;">
       Developed the Spatial Co-Scientist agent system using Esri’s Generative AI Toolkit, integrating Retrieval-Augmented Generation (RAG), LLM reasoning, and ArcGIS Pro workflows to support spatial analysis. 
       Collected expert interview insights as training data and designed guided analysis flows for clustering and exploratory tasks to enhance LLM-driven spatial analysis. Mentored by Mansour Raad, Lauren Bennett and Ankita Bakshi.
+    </p>
   </div>
 
 </div>
