@@ -13,8 +13,9 @@ You can access my curriculum vitae [here](https://drive.google.com/file/d/1dGAW2
 
 Selected Publications
 ======
+
 <span style="color: #13baf0; font-size: 20px;"><b>LocDiff: Identifying Locations on Earth by Diffusing in the Hilbert Space</b></span>  
-Zhangyu Wang, **Zeping Liu**, Jielu Zhang, Zhongliang Zhou, Qian Cao, Nemin Wu, Lan Mu, Yang Song, Yiqun Xie, Ni Lao, Gengchen Mai
+Zhangyu Wang, **Zeping Liu**, Jielu Zhang, Zhongliang Zhou, Qian Cao, Nemin Wu, Lan Mu, Yang Song, Yiqun Xie, Ni Lao, Gengchen Mai</b></span>  
 Neurips 2025  
 [paper](https://openreview.net/pdf?id=ghybX0Qlls)
 
