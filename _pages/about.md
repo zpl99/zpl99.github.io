@@ -15,7 +15,7 @@ Selected Publications
 ======
 
 <span style="color: #13baf0; font-size: 20px;"><b>LocDiff: Identifying Locations on Earth by Diffusing in the Hilbert Space</b></span>  
-Zhangyu Wang, **Zeping Liu**, Jielu Zhang, Zhongliang Zhou, Qian Cao, Nemin Wu, Lan Mu, Yang Song, Yiqun Xie, Ni Lao, Gengchen Mai</b></span>  
+Zhangyu Wang, **Zeping Liu**, Jielu Zhang, Zhongliang Zhou, Qian Cao, Nemin Wu, Lan Mu, Yang Song, Yiqun Xie, Ni Lao, Gengchen Mai 
 Neurips 2025  
 [paper](https://openreview.net/pdf?id=ghybX0Qlls)
 
