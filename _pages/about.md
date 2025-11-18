@@ -106,7 +106,7 @@ Awards
 
   <div style="margin-bottom: 15px;">
     <span style="font-size: 18px; color: #13baf0;"><b>Amazon AI PhD Fellowship</b></span><br>
-    <span style="color: gray;">2025</span>
+    <span style="color: gray;">202-2027</span>
   </div>
 
   <div style="margin-bottom: 15px;">
