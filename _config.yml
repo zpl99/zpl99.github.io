@@ -21,10 +21,10 @@ repository               : "https://github.com/zpl99/zpl99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.jpeg"
+  avatar           : "my_image_v2.jpg"
   name             : "Zeping Liu"
   pronouns         : "he/his" 
-  bio              : "Second year PhD student of Geography"
+  bio              : "PhD student of Geography"
   location         : "Austin, Texas"
   employer         : "The University of Texas at Austin"
   uri              : https://zpl99.github.io/
