@@ -9,6 +9,8 @@ redirect_from:
 
 I am a second-year Ph.D. student in the Department of Geography and the Environment at the University of Texas at Austin, advised by [Dr. Gengchen Mai](https://gengchenmai.github.io/). My research focuses on Geospatial AI and Intelligent Earth Observation, with particular emphasis on geo-foundation models, spatial representation learning, and efficient large-scale, high-resolution remote sensing mapping.
 
+I am also an [Amazon AI PhD Fellow (2025-2027)](https://www.linkedin.com/posts/cockrell-school-of-engineering-the-university-of-texas-at-austin_horns-up-for-the-15-outstanding-doctoral-activity-7387131201867694083-W4lM/)
+
 You can access my curriculum vitae [here](https://drive.google.com/file/d/1dGAW29XeQNQu1OvVq1A842ZSXlrXVZEl/view?usp=sharing).
 
 Selected Publications
