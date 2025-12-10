@@ -17,12 +17,12 @@ Selected Publications
 ======
 
 <span style="color: #13baf0; font-size: 20px;"><b>LocDiff: Identifying Locations on Earth by Diffusing in the Hilbert Space</b></span>  
-_Zhangyu Wang, **Zeping Liu**, Jielu Zhang, Zhongliang Zhou, Qian Cao, Nemin Wu, Lan Mu, Yang Song, Yiqun Xie, Ni Lao, Gengchen Mai_
+_Zhangyu Wang, **Zeping Liu**, Jielu Zhang, Zhongliang Zhou, Qian Cao, Nemin Wu, Lan Mu, Yang Song, Yiqun Xie, Ni Lao, Gengchen Mai_<br/>
 Neurips 2025  
 [paper](https://openreview.net/pdf?id=ghybX0Qlls)
 
 <span style="color: #13baf0; font-size: 20px;"><b>GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations</b></span>  
-_**Zeping Liu**, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai_
+_**Zeping Liu**, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai_<br/>
 arXiv preprint arXiv:2503.16683  
 [paper](https://arxiv.org/abs/2503.16683)
 
