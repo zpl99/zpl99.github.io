@@ -183,7 +183,6 @@ redirect_from:
     <div class="quick-links">
       <a href="https://drive.google.com/file/d/1dGAW29XeQNQu1OvVq1A842ZSXlrXVZEl/view?usp=sharing">CV</a>
       <a href="https://scholar.google.com/citations?user=eSeCaz4AAAAJ">Google Scholar</a>
-      <a href="https://github.com/zpl99">GitHub</a>
       <a href="mailto:zeping.liu@utexas.edu">Email</a>
     </div>
   </header>
