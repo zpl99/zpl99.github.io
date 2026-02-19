@@ -181,7 +181,7 @@ redirect_from:
     </p>
     <p class="fellowship">I am the Amazon AI PhD Fellow (2025-2027)</p>
     <div class="quick-links">
-      <a href="https://drive.google.com/file/d/1dGAW29XeQNQu1OvVq1A842ZSXlrXVZEl/view?usp=sharing">CV</a>
+      <a href="https://drive.google.com/file/d/1eQzVQG8wziwlJqVxce35biLFio1SaKTJ/view?usp=sharing">CV</a>
       <a href="https://scholar.google.com/citations?user=eSeCaz4AAAAJ">Google Scholar</a>
       <a href="mailto:zeping.liu@utexas.edu">Email</a>
     </div>
