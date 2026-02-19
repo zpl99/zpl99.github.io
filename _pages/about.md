@@ -264,8 +264,8 @@ redirect_from:
     <div>
       <h2 class="section-title">Awards</h2>
       <ul class="compact">
-        <li>2026 IGIF Scholarship Award </li>
-        <li>UT Austin Dean's Prestigious Supplement Fellowship </li>
+        <li>IGIF Scholarship Award (2026) </li>
+        <li>UT Austin Dean's Prestigious Supplement Fellowship (2025) </li>
         <li>Amazon AI PhD Fellowship (2025-2027)</li>
         <li>Second Place, UT GIS Day Student Presentation Competition (2024)</li>
         <li>Outstanding Graduate Student of Beijing, China (2024)</li>
