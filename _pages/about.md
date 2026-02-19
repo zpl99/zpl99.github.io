@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zeping Liu"
+# title: "Zeping Liu"
 author_profile: true
 redirect_from:
   - /about/
@@ -172,7 +172,6 @@ redirect_from:
 
 <div class="about-minimal">
   <header class="intro">
-    <p class="kicker">Geospatial AI + Earth Observation</p>
     <h1>Zeping Liu</h1>
     <p class="lead">
       I am a second-year Ph.D. student in the Department of Geography and the Environment at the
@@ -266,9 +265,11 @@ redirect_from:
     <div>
       <h2 class="section-title">Awards</h2>
       <ul class="compact">
+        <li>2026 IGIF Scholarship Award </li>
+        <li>UT Austin Dean's Prestigious Supplement Fellowship </li>
         <li>Amazon AI PhD Fellowship (2025-2027)</li>
         <li>Second Place, UT GIS Day Student Presentation Competition (2024)</li>
-        <li>Outstanding Graduate Student of Beijing (2024)</li>
+        <li>Outstanding Graduate Student of Beijing, China (2024)</li>
         <li>Zhou Tingru Geography Youth Award (2024)</li>
         <li>First Prize, Graduate Academic Forum of National Remote Sensing Bulletin (2023)</li>
         <li>National Scholarship, Ministry of Education (China) (2023)</li>
@@ -280,6 +281,8 @@ redirect_from:
   <section class="section">
     <h2 class="section-title">Reviewer Service</h2>
     <ul class="reviewer-grid">
+      <li>ICLR 2025</li>
+      <li>KDD 2026 AI for Science Track</li>
       <li>Scientific Reports</li>
       <li>Earth Science Informatics</li>
       <li>International Journal of Applied Earth Observation and Geoinformation</li>
