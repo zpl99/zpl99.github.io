@@ -179,7 +179,7 @@ redirect_from:
       My research focuses on Geospatial AI and Intelligent Earth Observation, with an emphasis on
       geo-foundation models, spatial representation learning, and efficient large-scale high-resolution mapping.
     </p>
-    <p class="fellowship">Amazon AI PhD Fellow (2025-2027)</p>
+    <p class="fellowship">I am the Amazon AI PhD Fellow (2025-2027)</p>
     <div class="quick-links">
       <a href="https://drive.google.com/file/d/1dGAW29XeQNQu1OvVq1A842ZSXlrXVZEl/view?usp=sharing">CV</a>
       <a href="https://scholar.google.com/citations?user=eSeCaz4AAAAJ">Google Scholar</a>
