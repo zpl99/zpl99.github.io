@@ -239,7 +239,7 @@ redirect_from:
         <p class="pub-meta"><strong>Zeping Liu</strong>, Hong Tang, Wei Huang. Chinese Conference on Pattern Recognition and Computer Vision, 2021.</p>
       </li>
     </ol>
-    <p class="section-note">For complete records, please see the Publications page.</p>
+    <p class="section-note">For complete records, please see my Google Scholar.</p>
   </section>
 
   <section class="section two-col">
