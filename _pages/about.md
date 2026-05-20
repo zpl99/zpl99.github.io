@@ -501,6 +501,8 @@ redirect_from:
     <div class="reviewer-group">
       <p class="reviewer-label">Journals</p>
       <ul class="reviewer-list">
+        <li>ISPRS Journal of Photogrammetry and Remote Sensing</li>
+        <li>Transactions in GIS</li>
         <li>Scientific Reports</li>
         <li>Earth Science Informatics</li>
         <li>Int'l Journal of Applied Earth Observation and Geoinformation</li>
