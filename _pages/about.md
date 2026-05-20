@@ -313,6 +313,17 @@ redirect_from:
   font-family: "Source Sans 3", "Avenir Next", "Segoe UI", sans-serif;
 }
 
+.about-minimal .last-updated {
+  margin-top: 2rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--line);
+  text-align: right;
+  font-family: "Source Sans 3", "Avenir Next", "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  color: var(--faint);
+}
+
 @media (max-width: 860px) {
   .about-minimal h1 {
     font-size: 1.78rem;
@@ -512,6 +523,7 @@ redirect_from:
         <li>Geo-spatial Information Science</li>
       </ul>
     </div>
-    <p class="section-note"><a href="https://info.flagcounter.com/JzHz">Visitor map</a></p>
   </section>
+
+  <p class="last-updated">Last updated: May 20, 2026</p>
 </div>
