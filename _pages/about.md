@@ -358,17 +358,17 @@ redirect_from:
     </h2>
     <ol class="publication-list">
       <li>
-        <span class="pub-year">2025</span>
+        <span class="pub-year">2026</span>
         <div class="pub-body">
-          <p class="pub-title"><a href="https://openreview.net/pdf?id=ghybX0Qlls">LocDiff: Identifying Locations on Earth by Diffusing in the Hilbert Space</a></p>
-          <p class="pub-meta">Zhangyu Wang, <span class="me">Zeping Liu</span>, et al. <span class="venue">NeurIPS 2025</span>.</p>
+          <p class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S092427162600208X">GAIR: Location-aware Self-Supervised Contrastive Pre-training with Geo-Aligned Implicit Representations</a></p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai. <span class="venue">ISPRS Journal of Photogrammetry and Remote Sensing, 2026</span>.</p>
         </div>
       </li>
       <li>
         <span class="pub-year">2025</span>
         <div class="pub-body">
-          <p class="pub-title"><a href="https://arxiv.org/abs/2503.16683">GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations</a></p>
-          <p class="pub-meta"><span class="me">Zeping Liu</span>, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai. <span class="venue">arXiv 2025</span>.</p>
+          <p class="pub-title"><a href="https://openreview.net/pdf?id=ghybX0Qlls">LocDiff: Identifying Locations on Earth by Diffusing in the Hilbert Space</a></p>
+          <p class="pub-meta">Zhangyu Wang, <span class="me">Zeping Liu</span>, et al. <span class="venue">NeurIPS 2025</span>.</p>
         </div>
       </li>
       <li>
@@ -448,6 +448,12 @@ redirect_from:
   <section class="section two-col">
     <div>
       <h2 class="section-title"><span>Industry Experience</span></h2>
+      <div class="item">
+        <div class="item-head">
+          <p class="subhead">Applied Scientist Intern, Amazon</p>
+          <span class="date-chip">Jun – Sep 2026 · Upcoming</span>
+        </div>
+      </div>
       <div class="item">
         <div class="item-head">
           <p class="subhead">Research Intern, Esri Inc.</p>
