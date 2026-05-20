@@ -478,7 +478,7 @@ redirect_from:
       <h2 class="section-title"><span>Selected Awards</span></h2>
       <ul class="award-list">
         <li><span>IGIF Scholarship Award</span><span class="award-year">2026</span></li>
-        <li><span class="highlight">Amazon AI PhD Fellowship</span><span class="award-year">2025–2027</span></li>
+        <li><span>Amazon AI PhD Fellowship</span><span class="award-year">2025–2027</span></li>
         <li><span>UT Austin Dean's Prestigious Supplement Fellowship</span><span class="award-year">2025</span></li>
         <li><span>Second Place, UT GIS Day Student Presentation</span><span class="award-year">2024</span></li>
         <li><span>Outstanding Graduate Student of Beijing</span><span class="award-year">2024</span></li>
