@@ -132,7 +132,7 @@ redirect_from:
 
 .about-minimal .publication-list li {
   display: grid;
-  grid-template-columns: 3.4rem 1fr;
+  grid-template-columns: 5.8rem 1fr;
   gap: 0.4rem 0.9rem;
   padding: 0.65rem 0;
   border-bottom: 1px dashed var(--line);
@@ -149,7 +149,34 @@ redirect_from:
   letter-spacing: 0.05em;
   color: var(--faint);
   padding-top: 0.18rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.3rem;
 }
+
+.about-minimal .venue-badge {
+  display: inline-block;
+  padding: 0.16rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.25;
+  white-space: nowrap;
+}
+
+.about-minimal .vb-ijgis { background: #e0edff; color: #1d4ed8; }
+.about-minimal .vb-prs { background: #ccfbf1; color: #0f766e; }
+.about-minimal .vb-neurips { background: #f3e8ff; color: #7e22ce; }
+.about-minimal .vb-jag { background: #dcfce7; color: #15803d; }
+.about-minimal .vb-rse { background: #fef3c7; color: #b45309; }
+.about-minimal .vb-stoten { background: #ecfccb; color: #4d7c0f; }
+.about-minimal .vb-essd { background: #cffafe; color: #0e7490; }
+.about-minimal .vb-gsrs { background: #ffe4e6; color: #be123c; }
+.about-minimal .vb-rs { background: #e0e7ff; color: #4338ca; }
+.about-minimal .vb-tgrs { background: #ffedd5; color: #c2410c; }
+.about-minimal .vb-prcv { background: #f1f5f9; color: #475569; }
 
 .about-minimal .pub-body {
   min-width: 0;
@@ -176,6 +203,18 @@ redirect_from:
 }
 
 .about-minimal .pub-meta .venue {
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+.about-minimal .pub-venue {
+  margin: 0.18rem 0 0;
+  line-height: 1.5;
+  font-size: 0.88rem;
+  font-family: "Source Sans 3", "Avenir Next", "Segoe UI", sans-serif;
+}
+
+.about-minimal .pub-venue .venue {
   font-style: italic;
   color: var(--ink-soft);
 }
@@ -341,6 +380,8 @@ redirect_from:
 
   .about-minimal .pub-year {
     padding-top: 0;
+    flex-direction: row;
+    align-items: center;
   }
 }
 </style>
@@ -365,91 +406,111 @@ redirect_from:
   <section class="section">
     <h2 class="section-title">
       <span>Selected Publications</span>
-      <span class="count">12 entries</span>
+      <span class="count">13 entries</span>
     </h2>
     <ol class="publication-list">
       <li>
-        <span class="pub-year">2026</span>
+        <span class="pub-year">2026 <span class="venue-badge vb-ijgis">IJGIS 26</span></span>
+        <div class="pub-body">
+          <p class="pub-title"><a href="https://doi.org/10.1080/13658816.2026.2696352">Spatial CoT: A Spatial Concept Transformation Guided LLM Reasoning Framework for Complex Geospatial Question Answering</a></p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Haiqi Xu, Ni Lao, Lauren Bennett, Liang Zhao, Mansour Raad, Hu Shao, Lynne Buie, Marshall Mueller, Cheng-Chia Huang, et al.</p>
+          <p class="pub-venue"><span class="venue">International Journal of Geographical Information Science, 2026</span>.</p>
+        </div>
+      </li>
+      <li>
+        <span class="pub-year">2026 <span class="venue-badge vb-prs">P&amp;RS 26</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S092427162600208X">GAIR: Location-aware Self-Supervised Contrastive Pre-training with Geo-Aligned Implicit Representations</a></p>
-          <p class="pub-meta"><span class="me">Zeping Liu</span>, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai. <span class="venue">ISPRS Journal of Photogrammetry and Remote Sensing, 2026</span>.</p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai.</p>
+          <p class="pub-venue"><span class="venue">ISPRS Journal of Photogrammetry and Remote Sensing, 2026</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2025</span>
+        <span class="pub-year">2025 <span class="venue-badge vb-neurips">NeurIPS 25</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://openreview.net/pdf?id=ghybX0Qlls">LocDiff: Identifying Locations on Earth by Diffusing in the Hilbert Space</a></p>
-          <p class="pub-meta">Zhangyu Wang, <span class="me">Zeping Liu</span>, et al. <span class="venue">NeurIPS 2025</span>.</p>
+          <p class="pub-meta">Zhangyu Wang, <span class="me">Zeping Liu</span>, et al.</p>
+          <p class="pub-venue"><span class="venue">NeurIPS 2025</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2025</span>
+        <span class="pub-year">2025 <span class="venue-badge vb-jag">JAG 25</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S1569843225000159">Towards the Next Generation of Geospatial Artificial Intelligence</a></p>
-          <p class="pub-meta">Gengchen Mai, Yiqun Xie, Xiaowei Jia, et al. <span class="venue">International Journal of Applied Earth Observation and Geoinformation, 2025</span>.</p>
+          <p class="pub-meta">Gengchen Mai, Yiqun Xie, Xiaowei Jia, et al.</p>
+          <p class="pub-venue"><span class="venue">International Journal of Applied Earth Observation and Geoinformation, 2025</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2024</span>
+        <span class="pub-year">2024 <span class="venue-badge vb-neurips">NeurIPS 24</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://arxiv.org/abs/2406.15658">TorchSpatial: A Location Encoding Framework and Benchmark for Spatial Representation Learning</a></p>
-          <p class="pub-meta">Nemin Wu, Qian Cao, Zhangyu Wang, <span class="me">Zeping Liu</span>, et al. <span class="venue">NeurIPS 2024 Datasets &amp; Benchmarks</span>.</p>
+          <p class="pub-meta">Nemin Wu, Qian Cao, Zhangyu Wang, <span class="me">Zeping Liu</span>, et al.</p>
+          <p class="pub-venue"><span class="venue">NeurIPS 2024 Datasets &amp; Benchmarks</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2024</span>
+        <span class="pub-year">2024 <span class="venue-badge vb-rse">RSE 24</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0034425724000282">Four Seasonal Composite Sentinel-2 Images for Large-Scale Building Story Estimation</a></p>
-          <p class="pub-meta">Siqing Lyu, Chao Ji, <span class="me">Zeping Liu</span>, Hong Tang, Liqiang Zhang, Xin Yang. <span class="venue">Remote Sensing of Environment, 2024</span>.</p>
+          <p class="pub-meta">Siqing Lyu, Chao Ji, <span class="me">Zeping Liu</span>, Hong Tang, Liqiang Zhang, Xin Yang.</p>
+          <p class="pub-venue"><span class="venue">Remote Sensing of Environment, 2024</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2024</span>
+        <span class="pub-year">2024 <span class="venue-badge vb-stoten">STOTEN 24</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0048969724065793">CALIPSO-Based Aerosol Extinction Profile Estimation from MODIS and MERRA-2 with Transformer + CNN</a></p>
-          <p class="pub-meta">Yang Zhen, Xin Yang, Hong Tang, Haoze Shi, <span class="me">Zeping Liu</span>. <span class="venue">Science of The Total Environment, 2024</span>.</p>
+          <p class="pub-meta">Yang Zhen, Xin Yang, Hong Tang, Haoze Shi, <span class="me">Zeping Liu</span>.</p>
+          <p class="pub-venue"><span class="venue">Science of The Total Environment, 2024</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2023</span>
+        <span class="pub-year">2023 <span class="venue-badge vb-essd">ESSD 23</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://essd.copernicus.org/articles/15/3547/2023/essd-15-3547-2023.html">China Building Rooftop Area: A Multi-Annual High-Resolution Dataset (2016–2021)</a></p>
-          <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang, Lin Feng, Siqing Lyu. <span class="venue">Earth System Science Data, 2023</span>.</p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang, Lin Feng, Siqing Lyu.</p>
+          <p class="pub-venue"><span class="venue">Earth System Science Data, 2023</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2023</span>
+        <span class="pub-year">2023 <span class="venue-badge vb-gsrs">GS&amp;RS 23</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://www.tandfonline.com/doi/pdf/10.1080/15481603.2023.2196154">National-Scale Mapping of Building Footprints with Feature Super-Resolution Segmentation</a></p>
-          <p class="pub-meta">Lin Feng, Penglei Xu, Hong Tang, <span class="me">Zeping Liu</span>, Peng Hou. <span class="venue">GIScience and Remote Sensing, 2023</span>.</p>
+          <p class="pub-meta">Lin Feng, Penglei Xu, Hong Tang, <span class="me">Zeping Liu</span>, Peng Hou.</p>
+          <p class="pub-venue"><span class="venue">GIScience and Remote Sensing, 2023</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2023</span>
+        <span class="pub-year">2023 <span class="venue-badge vb-rs">RS 23</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://www.mdpi.com/2072-4292/15/7/1741">Learning Sparse Geometric Features for Building Segmentation from Low-Resolution Remote-Sensing Images</a></p>
-          <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang. <span class="venue">Remote Sensing, 2023</span>.</p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang.</p>
+          <p class="pub-venue"><span class="venue">Remote Sensing, 2023</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2022</span>
+        <span class="pub-year">2022 <span class="venue-badge vb-tgrs">TGRS 22</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://drive.google.com/file/d/1cV8hM7Ad_OOYLTwzjnpCml9QWrWJZeVn/view">Building Outline Delineation from VHR Images with CRNN and Line Segment Information</a></p>
-          <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang, Wei Huang. <span class="venue">IEEE TGRS, 2022</span>.</p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang, Wei Huang.</p>
+          <p class="pub-venue"><span class="venue">IEEE TGRS, 2022</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2021</span>
+        <span class="pub-year">2021 <span class="venue-badge vb-rs">RS 21</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://drive.google.com/file/d/1cV8hM7Ad_OOYLTwzjnpCml9QWrWJZeVn/view">Sequential Delineation of Rooftops with Holes from VHR Aerial Images</a></p>
-          <p class="pub-meta">Wei Huang, <span class="me">Zeping Liu</span>, Hong Tang, Jiayi Ge. <span class="venue">Remote Sensing, 2021</span>.</p>
+          <p class="pub-meta">Wei Huang, <span class="me">Zeping Liu</span>, Hong Tang, Jiayi Ge.</p>
+          <p class="pub-venue"><span class="venue">Remote Sensing, 2021</span>.</p>
         </div>
       </li>
       <li>
-        <span class="pub-year">2021</span>
+        <span class="pub-year">2021 <span class="venue-badge vb-prcv">PRCV 21</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-88007-1_39">AFM-RNN: A Sequence Prediction Model for Delineating Building Rooftops</a></p>
-          <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang, Wei Huang. <span class="venue">Chinese Conference on Pattern Recognition and Computer Vision, 2021</span>.</p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang, Wei Huang.</p>
+          <p class="pub-venue"><span class="venue">Chinese Conference on Pattern Recognition and Computer Vision, 2021</span>.</p>
         </div>
       </li>
     </ol>
@@ -525,5 +586,5 @@ redirect_from:
     </div>
   </section>
 
-  <p class="last-updated">Last updated: May 20, 2026</p>
+  <p class="last-updated">Last updated: August 19, 2026</p>
 </div>
