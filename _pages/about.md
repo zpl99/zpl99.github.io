@@ -523,7 +523,7 @@ redirect_from:
       <div class="item">
         <div class="item-head">
           <p class="subhead">Applied Scientist Intern, Amazon</p>
-          <span class="date-chip">Jun – Sep 2026 · Upcoming</span>
+          <span class="date-chip">Jun – Sep 2026 · Full-time</span>
         </div>
       </div>
       <div class="item">
@@ -551,7 +551,7 @@ redirect_from:
       <ul class="award-list">
         <li><span>IGIF Scholarship Award</span><span class="award-year">2026</span></li>
         <li><span>Amazon AI PhD Fellowship</span><span class="award-year">2025–2027</span></li>
-        <li><span>UT Austin Dean's Prestigious Supplement Fellowship</span><span class="award-year">2025</span></li>
+        <li><span>UT Austin Dean's Prestigious Supplement Fellowship</span><span class="award-year">2025, 2026</span></li>
         <li><span>Second Place, UT GIS Day Student Presentation</span><span class="award-year">2024</span></li>
         <li><span>Outstanding Graduate Student of Beijing</span><span class="award-year">2024</span></li>
         <li><span>Zhou Tingru Geography Youth Award</span><span class="award-year">2024</span></li>
