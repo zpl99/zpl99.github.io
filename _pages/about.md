@@ -59,19 +59,6 @@ redirect_from:
   color: var(--ink-soft);
 }
 
-.about-minimal .fellowship {
-  margin: 0.85rem 0 0;
-  display: inline-block;
-  padding: 0.28rem 0.7rem;
-  background: var(--accent-soft);
-  color: var(--accent);
-  font-weight: 700;
-  font-size: 0.88rem;
-  font-family: "Source Sans 3", "Avenir Next", "Segoe UI", sans-serif;
-  border-radius: 4px;
-  letter-spacing: 0.01em;
-}
-
 .about-minimal .quick-links {
   margin-top: 1.05rem;
   display: flex;
@@ -394,8 +381,8 @@ redirect_from:
       University of Texas at Austin, advised by <a href="https://gengchenmai.github.io/">Dr. Gengchen Mai</a>.
       My research focuses on Geospatial AI and Intelligent Earth Observation, with an emphasis on
       geo-foundation models, spatial representation learning, and efficient large-scale high-resolution mapping.
+      My research is supported by the Amazon AI PhD Fellowship Program (2025–2027).
     </p>
-    <span class="fellowship">Amazon AI PhD Fellow · 2025–2027</span>
     <div class="quick-links">
       <a href="https://drive.google.com/file/d/1eQzVQG8wziwlJqVxce35biLFio1SaKTJ/view?usp=sharing">CV</a>
       <a href="https://scholar.google.com/citations?user=eSeCaz4AAAAJ">Google Scholar</a>
