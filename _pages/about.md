@@ -515,14 +515,14 @@ redirect_from:
       </div>
       <div class="item">
         <div class="item-head">
-          <p class="subhead">Research Intern, Esri Inc.</p>
+          <p class="subhead">SDE Intern, Esri Inc.</p>
           <span class="date-chip">Aug – Nov 2025 · Part-time</span>
         </div>
         <p>Continued work on the Spatial Co-Scientist project.</p>
       </div>
       <div class="item">
         <div class="item-head">
-          <p class="subhead">Research Intern, Esri Inc.</p>
+          <p class="subhead">SDE Intern, Esri Inc.</p>
           <span class="date-chip">May – Aug 2025 · Full-time</span>
         </div>
         <p>
