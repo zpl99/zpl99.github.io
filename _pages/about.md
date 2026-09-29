@@ -393,9 +393,17 @@ redirect_from:
   <section class="section">
     <h2 class="section-title">
       <span>Selected Publications</span>
-      <span class="count">13 entries</span>
+      <span class="count">14 entries</span>
     </h2>
     <ol class="publication-list">
+      <li>
+        <span class="pub-year">2026 <span class="venue-badge vb-neurips">NeurIPS 26</span></span>
+        <div class="pub-body">
+          <p class="pub-title"><a href="https://arxiv.org/abs/2609.32856">PolyTopoBench: A Benchmark for Complex Vector Polygon Generation from Remote Sensing Imagery</a></p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Ni Lao, Weiwei Sun, Gil Wolff, Yiqun Xie, Liang Zhao, Junfeng Jiao, Gengchen Mai.</p>
+          <p class="pub-venue"><span class="venue">NeurIPS 2026 Datasets &amp; Benchmarks</span>.</p>
+        </div>
+      </li>
       <li>
         <span class="pub-year">2026 <span class="venue-badge vb-ijgis">IJGIS 26</span></span>
         <div class="pub-body">
