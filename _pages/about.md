@@ -377,7 +377,7 @@ redirect_from:
   <header class="intro">
     <h1>Zeping Liu</h1>
     <p class="lead">
-      I am a second-year Ph.D. student in the Department of Geography and the Environment at the
+      I am a third-year Ph.D. student in the Department of Geography and the Environment at the
       University of Texas at Austin, advised by <a href="https://gengchenmai.github.io/">Dr. Gengchen Mai</a>.
       My research focuses on Geospatial AI and Intelligent Earth Observation, with an emphasis on
       geo-foundation models, spatial representation learning, and efficient large-scale high-resolution mapping.
@@ -512,6 +512,7 @@ redirect_from:
           <p class="subhead">Applied Scientist Intern, Amazon</p>
           <span class="date-chip">Jun – Sep 2026 · Full-time</span>
         </div>
+        <p>Amazon Geospatial Science Team (Performance: Inclined for a return offer)</p>
       </div>
       <div class="item">
         <div class="item-head">
