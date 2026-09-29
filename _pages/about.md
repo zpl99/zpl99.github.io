@@ -582,5 +582,5 @@ redirect_from:
     </div>
   </section>
 
-  <p class="last-updated">Last updated: August 19, 2026</p>
+  <p class="last-updated">Last updated: September 29, 2026</p>
 </div>
