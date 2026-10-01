@@ -384,7 +384,7 @@ redirect_from:
       My research is supported by the Amazon AI PhD Fellowship Program (2025–2027).
     </p>
     <div class="quick-links">
-      <a href="https://drive.google.com/file/d/1nwW4pgH4GLA71pfVhMfVrOz1ozLTLS7L/view?usp=sharing">CV</a>
+      <a href="/files/CV-Zeping_Liu.pdf">CV</a>
       <a href="https://scholar.google.com/citations?user=eSeCaz4AAAAJ">Google Scholar</a>
       <a href="mailto:zeping.liu@utexas.edu">Email</a>
     </div>
@@ -401,7 +401,7 @@ redirect_from:
         <div class="pub-body">
           <p class="pub-title"><a href="https://arxiv.org/abs/2609.32856">PolyTopoBench: A Benchmark for Complex Vector Polygon Generation from Remote Sensing Imagery</a></p>
           <p class="pub-meta"><span class="me">Zeping Liu</span>, Ni Lao, Weiwei Sun, Gil Wolff, Yiqun Xie, Liang Zhao, Junfeng Jiao, Gengchen Mai.</p>
-          <p class="pub-venue"><span class="venue">NeurIPS 2026 Datasets &amp; Benchmarks</span>.</p>
+          <p class="pub-venue"><span class="venue">NeurIPS 2026 Evaluations &amp; Datasets Track</span>.</p>
         </div>
       </li>
       <li>
@@ -416,7 +416,7 @@ redirect_from:
         <span class="pub-year">2026 <span class="venue-badge vb-prs">P&amp;RS 26</span></span>
         <div class="pub-body">
           <p class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S092427162600208X">GAIR: Location-aware Self-Supervised Contrastive Pre-training with Geo-Aligned Implicit Representations</a></p>
-          <p class="pub-meta"><span class="me">Zeping Liu</span>, Fan Zhang, Junfeng Jiao, Ni Lao, Gengchen Mai.</p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Ni Lao, Zhangyu Wang, Junfeng Jiao, Gengchen Mai.</p>
           <p class="pub-venue"><span class="venue">ISPRS Journal of Photogrammetry and Remote Sensing, 2026</span>.</p>
         </div>
       </li>
@@ -582,5 +582,5 @@ redirect_from:
     </div>
   </section>
 
-  <p class="last-updated">Last updated: September 29, 2026</p>
+  <p class="last-updated">Last updated: October 1, 2026</p>
 </div>
