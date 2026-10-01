@@ -164,6 +164,7 @@ redirect_from:
 .about-minimal .vb-rs { background: #e0e7ff; color: #4338ca; }
 .about-minimal .vb-tgrs { background: #ffedd5; color: #c2410c; }
 .about-minimal .vb-prcv { background: #f1f5f9; color: #475569; }
+.about-minimal .vb-arxiv { background: #fee2e2; color: #b91c1c; }
 
 .about-minimal .pub-body {
   min-width: 0;
@@ -393,9 +394,17 @@ redirect_from:
   <section class="section">
     <h2 class="section-title">
       <span>Selected Publications</span>
-      <span class="count">14 entries</span>
+      <span class="count">15 entries</span>
     </h2>
     <ol class="publication-list">
+      <li>
+        <span class="pub-year">2026 <span class="venue-badge vb-arxiv">arXiv 26</span></span>
+        <div class="pub-body">
+          <p class="pub-title"><a href="https://arxiv.org/abs/2609.32886">StraTune: Adaptive Selection of Revision Operators for Self-Evolving LLM Skills</a></p>
+          <p class="pub-meta"><span class="me">Zeping Liu</span>, Yan Li, Ni Lao, Gil Wolff, Gengchen Mai.</p>
+          <p class="pub-venue"><span class="venue">arXiv preprint, 2026 (under review)</span>.</p>
+        </div>
+      </li>
       <li>
         <span class="pub-year">2026 <span class="venue-badge vb-neurips">NeurIPS 26</span></span>
         <div class="pub-body">
@@ -487,7 +496,7 @@ redirect_from:
       <li>
         <span class="pub-year">2022 <span class="venue-badge vb-tgrs">TGRS 22</span></span>
         <div class="pub-body">
-          <p class="pub-title"><a href="https://drive.google.com/file/d/1cV8hM7Ad_OOYLTwzjnpCml9QWrWJZeVn/view">Building Outline Delineation from VHR Images with CRNN and Line Segment Information</a></p>
+          <p class="pub-title"><a href="https://doi.org/10.1109/TGRS.2022.3154046">Building Outline Delineation from VHR Images with CRNN and Line Segment Information</a></p>
           <p class="pub-meta"><span class="me">Zeping Liu</span>, Hong Tang, Wei Huang.</p>
           <p class="pub-venue"><span class="venue">IEEE TGRS, 2022</span>.</p>
         </div>
@@ -495,7 +504,7 @@ redirect_from:
       <li>
         <span class="pub-year">2021 <span class="venue-badge vb-rs">RS 21</span></span>
         <div class="pub-body">
-          <p class="pub-title"><a href="https://drive.google.com/file/d/1cV8hM7Ad_OOYLTwzjnpCml9QWrWJZeVn/view">Sequential Delineation of Rooftops with Holes from VHR Aerial Images</a></p>
+          <p class="pub-title"><a href="https://doi.org/10.3390/rs13214271">Sequential Delineation of Rooftops with Holes from VHR Aerial Images</a></p>
           <p class="pub-meta">Wei Huang, <span class="me">Zeping Liu</span>, Hong Tang, Jiayi Ge.</p>
           <p class="pub-venue"><span class="venue">Remote Sensing, 2021</span>.</p>
         </div>
